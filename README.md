@@ -18,3 +18,6 @@ grøn ramme
 Email valideres på submit
 Fornavn forsvinder => Tak for dine oplysninger
                 Not => Rød rammet tekst
+                
+                
+INGEN PAGE RELOAD!!!
